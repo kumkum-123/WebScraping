@@ -1,1 +1,1 @@
-# WebScraping
+Objective: The goal of this exercise is to build a basic web scraper using Python that extracts headlines from a news website. This exercise will help you understand the basic concepts of data scraping, including fetching web pages, parsing HTML, and extracting specific content.
